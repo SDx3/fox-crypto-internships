@@ -3,21 +3,36 @@ Dit is een kort en bondig (en informeel) overzicht van alle stageopdrachten die 
 
 # De opdrachten
 
+
 ## Hardware en FPGA
 
-1. ...
+1. Expression parsers in FPGA
+2. Design and implementation of super secure storage
+3. Side channel analysis on post quantum cryptography
+4. CPU glitching
+5. Biometric authentication (design, gebruik, validatie)
 
 ## Software
 
-1. ...
+1. Automated security testing + fuzzing
+2. Automated CVE scanning, reporting and fixing
+3. Protocol efficiency for low latency devices
+4. Kotlin Compose (diverse opdrachten)
+5. Micro controller test frameworks
 
 ## Cryptografie
 
-1. ...
+1. Postquantum cryptografie: help ons met het maken van een "beslisboom" voor het maken van cryptografische keuzes
+2. Postquantum cryptografie: Toepassingen van nieuwe algoritmes.
+3. Cryptografie: toepassing van shared secrets, attribute based cryptografie, en andere hippe dingen
 
 ## Overige opdrachten
 
-1. ...
+1. Audit logging en management
+2. Cyber Resiliency analysis tooling
+3. Insider threat improvements
+4. Model based systems engineering improvements
+5. Formele (cryptografisch) protocolverificatie
 
 ## Je eigen opdracht?
 
